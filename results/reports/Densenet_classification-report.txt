@@ -1,0 +1,9 @@
+
+
+-------- New Train --------
+Model name is: Densenet121_date_20240823_110439_model.tch
+Epoch number: 0.24683228159057244
+Best validation loss: 0.24683228159057244
+Learning Rate: 1e-05
+Batch_size: 2
+Dropout: 0.2

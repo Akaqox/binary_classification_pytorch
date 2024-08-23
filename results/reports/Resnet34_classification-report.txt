@@ -1,0 +1,36 @@
+
+
+-------- New Train --------
+Model name is: Resnet34_date_20240823_090937_model.tch
+Epoch number: 0.21856731857572284
+Best validation loss: 0.21856731857572284
+Learning Rate: 1e-05
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet34_date_20240823_091347_model.tch
+Epoch number: 0.184562548995018
+Best validation loss: 0.184562548995018
+Learning Rate: 1e-05
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet34_date_20240823_103327_model.tch
+Epoch number: 0.12914348100312054
+Best validation loss: 0.12914348100312054
+Learning Rate: 1e-05
+Batch_size: 2
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet34_date_20240823_140653_model.tch
+Epoch number: 0.14686677688732744
+Best validation loss: 0.14686677688732744
+Learning Rate: 1e-05
+Batch_size: 2
+Dropout: 0.2

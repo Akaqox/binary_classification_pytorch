@@ -1,0 +1,135 @@
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_091540_model.tch
+Epoch number: 0.1863775372505188
+Best validation loss: 0.1863775372505188
+Learning Rate: 1e-05
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_093332_model.tch
+Epoch number: 0.2891047686338425
+Best validation loss: 0.2891047686338425
+Learning Rate: 0.001
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_093647_model.tch
+Epoch number: 0.20158262976578303
+Best validation loss: 0.20158262976578303
+Learning Rate: 1e-05
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_094020_model.tch
+Epoch number: 0.2921600946358272
+Best validation loss: 0.2921600946358272
+Learning Rate: 0.001
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_094318_model.tch
+Epoch number: 0.09559805457081114
+Best validation loss: 0.09559805457081114
+Learning Rate: 0.0001
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_094614_model.tch
+Epoch number: 0.20577678084373474
+Best validation loss: 0.20577678084373474
+Learning Rate: 1e-05
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_094851_model.tch
+Epoch number: 0.600997497354235
+Best validation loss: 0.600997497354235
+Learning Rate: 1e-06
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_095421_model.tch
+Epoch number: 0.6793906441756657
+Best validation loss: 0.6793906441756657
+Learning Rate: 1e-05
+Batch_size: 1
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_095743_model.tch
+Epoch number: 0.21911874400185688
+Best validation loss: 0.21911874400185688
+Learning Rate: 1e-05
+Batch_size: 2
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_100049_model.tch
+Epoch number: 0.16530920303027544
+Best validation loss: 0.16530920303027544
+Learning Rate: 1e-05
+Batch_size: 4
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_100356_model.tch
+Epoch number: 0.17068098655768804
+Best validation loss: 0.17068098655768804
+Learning Rate: 1e-05
+Batch_size: 8
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_100637_model.tch
+Epoch number: 0.2065719587462289
+Best validation loss: 0.2065719587462289
+Learning Rate: 1e-05
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_100857_model.tch
+Epoch number: 0.19026459285191127
+Best validation loss: 0.19026459285191127
+Learning Rate: 1e-05
+Batch_size: 16
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_102336_model.tch
+Epoch number: 0.14317238836416177
+Best validation loss: 0.14317238836416177
+Learning Rate: 1e-05
+Batch_size: 4
+Dropout: 0.2
+
+
+-------- New Train --------
+Model name is: Resnet50_date_20240823_104004_model.tch
+Epoch number: 0.11275336841354147
+Best validation loss: 0.11275336841354147
+Learning Rate: 1e-05
+Batch_size: 2
+Dropout: 0.2
